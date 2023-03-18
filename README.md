@@ -15,7 +15,7 @@ techniques to help debug.
 
 To get the backend set up, run:
 
-```console
+````console
 $ bundle install
 $ rails db:migrate db:seed
 $ rails s
